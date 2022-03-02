@@ -3,3 +3,5 @@ __pycache__
 service_key.json
 venv
 .DS_Store
+.docx
+.pdf
